@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Generated scientific outputs
+results/chains/
+results/cache/
+
+# Local or restricted datasets
+data/raw/*
+!data/raw/.gitkeep
