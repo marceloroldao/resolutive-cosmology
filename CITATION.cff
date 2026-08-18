@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Resolutive Cosmology"
+message: "If you use this software or research workspace, cite the exact release or commit used."
+type: software
+authors:
+  - family-names: "Matos"
+    given-names: "Marcelo Roldão"
+    orcid: "https://orcid.org/0009-0003-6075-4680"
+repository-code: "https://github.com/marceloroldao/resolutive-cosmology"
+license: "LicenseRef-RRNCL-1.0"
+version: "0.1.0-dev"
